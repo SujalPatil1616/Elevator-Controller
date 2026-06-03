@@ -83,7 +83,7 @@ Movement:
 
 ## Waveform
 
-<img src="elevator_waveform.png" alt="Elevator Controller Waveform" width="1000">
+<img src="https://github.com/SujalPatil1616/Elevator-Controller/blob/main/Elevator_Controller_Waveform.png" alt="Elevator Controller Waveform" width="1000">
 
 ---
 
